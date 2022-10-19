@@ -1,0 +1,9 @@
+﻿MedMas.obj : error LNK2005: "public: class medicine __cdecl medicine::operator-(int)" (??Gmedicine@@QEAA?AV0@H@Z) already defined in medicine.obj
+MedMas.obj : error LNK2005: "public: class medicine __cdecl medicine::operator+(int)" (??Hmedicine@@QEAA?AV0@H@Z) already defined in medicine.obj
+MedMas.obj : error LNK2005: "public: class medicine __cdecl medicine::operator+=(int)" (??Ymedicine@@QEAA?AV0@H@Z) already defined in medicine.obj
+MedMas.obj : error LNK2005: "public: class medicine __cdecl medicine::operator-=(int)" (??Zmedicine@@QEAA?AV0@H@Z) already defined in medicine.obj
+oop_3.obj : error LNK2005: "public: class medicine __cdecl medicine::operator-(int)" (??Gmedicine@@QEAA?AV0@H@Z) already defined in medicine.obj
+oop_3.obj : error LNK2005: "public: class medicine __cdecl medicine::operator+(int)" (??Hmedicine@@QEAA?AV0@H@Z) already defined in medicine.obj
+oop_3.obj : error LNK2005: "public: class medicine __cdecl medicine::operator+=(int)" (??Ymedicine@@QEAA?AV0@H@Z) already defined in medicine.obj
+oop_3.obj : error LNK2005: "public: class medicine __cdecl medicine::operator-=(int)" (??Zmedicine@@QEAA?AV0@H@Z) already defined in medicine.obj
+C:\Users\Марта\source\repos\oop_3\x64\Debug\oop_3.exe : fatal error LNK1169: one or more multiply defined symbols found
